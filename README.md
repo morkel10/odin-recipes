@@ -1,0 +1,1 @@
+Recipe project to index my favourite recipes. I am returning to the basics section of the Odin Project to consolidate my HTML/CSS skills. I also want to return to using Git and re-learn the basics.
